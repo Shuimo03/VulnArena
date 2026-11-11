@@ -1,0 +1,2 @@
+# Runtime object-store data may contain credentials, policies, or user data.
+/CVE-2023-28432/mnt/
